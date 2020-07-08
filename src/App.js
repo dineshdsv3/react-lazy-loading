@@ -3,6 +3,7 @@ import './App.css';
 import Post from './Post';
 import data from './data';
 import Lazyload from 'react-lazyload';
+import Loading from './Loading'
 
 function App() {
 
